@@ -1,0 +1,5 @@
+[params]
+  ordersectionsby    = "weight"
+  ordersectionsbydesc = true
+  orderpagesby       = "weight"
+  orderpagesbydesc    = true

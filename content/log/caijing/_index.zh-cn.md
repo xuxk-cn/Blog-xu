@@ -1,6 +1,10 @@
 +++
 title = "芹菜 Blog 开张"
 linkTitle = "芹菜的博客"
+ordersectionsby = "weight"
+ordersectionsbydesc = true
+orderpagesby = "weight"
+orderpagesbydesc = true
 weight = 1
 chapter = true
 +++
