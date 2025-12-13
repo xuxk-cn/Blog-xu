@@ -1,5 +1,5 @@
 +++
-title = "学习计划与流程整理"
+title = "人间观察"
 linkTitle = "学习资料"
 weight = 2
 +++

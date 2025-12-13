@@ -1,5 +1,5 @@
 +++
-title = "芹菜 Blog 开张"
+title = "财富故事"
 linkTitle = "芹菜的博客"
 ordersectionsby = "weight"
 ordersectionsbydesc = true

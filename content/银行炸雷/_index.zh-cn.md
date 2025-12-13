@@ -1,5 +1,5 @@
 +++
-title = "结构复盘与多语言检查"
+title = "银行炸雷"
 linkTitle = "灵感"
 weight = 3
 chapter = true
