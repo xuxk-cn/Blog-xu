@@ -9,7 +9,7 @@
 {{- $pages := slice }}
 
 {{- if eq $by "weight" }}
-	{{- $pages = $page.Pages.ByWeight }}
+	{{- $pages = $page.Pages.ByWeight | collections.Reverse }}
 {{- else if or (eq $by "name") (eq $by "title") (eq $by "linktitle") }}
 	{{- $pages = $page.Pages.ByLinkTitle }}
 {{- else if eq $by "modifieddate" }}
