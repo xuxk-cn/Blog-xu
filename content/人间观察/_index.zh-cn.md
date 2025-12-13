@@ -1,6 +1,6 @@
 +++
 title = "人间观察"
-linkTitle = "学习资料"
+linkTitle = "人间观察"
 weight = 2
 +++
 

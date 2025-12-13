@@ -1,6 +1,6 @@
 +++
 title = "银行炸雷"
-linkTitle = "灵感"
+linkTitle = "银行炸雷"
 weight = 3
 chapter = true
 +++

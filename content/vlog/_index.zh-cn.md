@@ -1,7 +1,7 @@
 +++
 title = "Vlog"
 linkTitle = "Vlog"
-weight = 5
+weight = 6
 chapter = true
 +++
 

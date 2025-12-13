@@ -1,6 +1,6 @@
 +++
 title = "财富故事"
-linkTitle = "芹菜的博客"
+linkTitle = "财富故事"
 ordersectionsby = "weight"
 ordersectionsbydesc = true
 orderpagesby = "weight"
