@@ -2,7 +2,7 @@
 Title = "首页"
 weight = 1
 chapter = true
-menuPageRef = "/log/first-day/"
+menuPageRef = "/log/Money Tales/"
 +++
 
 # 欢迎
