@@ -1,7 +1,7 @@
 +++
-title = "我的新文章"
-linkTitle = "我的新文章"
-weight = 7
+title = "银行网点正在大规模消失，这背后到底发生了什么?"
+linkTitle = "银行网点正在大规模消失"
+weight = 8
 chapter = true
 +++
 
