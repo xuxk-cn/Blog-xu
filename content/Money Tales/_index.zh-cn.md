@@ -5,7 +5,7 @@ ordersectionsby = "weight"
 ordersectionsbydesc = true
 orderpagesby = "weight"
 orderpagesbydesc = true
-weight = 1
+weight = 6
 chapter = true
 +++
 
