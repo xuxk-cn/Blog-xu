@@ -60,6 +60,12 @@ theme = "relearn"
     permalinkable = false
     noUgly = true
 
+[params]
+  ordersectionsby = "weight"
+  ordersectionsbydesc = true
+  orderpagesby = "weight"
+  orderpagesbydesc = true
+
 [params.relearn.dependencies]
   [params.relearn.dependencies.math]
     name = 'Math'
