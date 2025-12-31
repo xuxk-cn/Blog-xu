@@ -4,7 +4,9 @@
 {{- if eq $by "auto" }}
 	{{- $by = "" }}
 {{- end }}
-{{- $by = $by | default $page.Params.ordersectionsby | default $page.Site.Params.ordersectionsby | default "default" }}
+{{- $by = $by | default $page.Params.orderpagesby | default $page.Site.Params.orderpagesby | default $page.Params.ordersectionsby | default $page.Site.Params.ordersectionsby | default "default" }}
+
+{{- $desc := $page.Params.orderpagesbydesc | default $page.Site.Params.orderpagesbydesc | default $page.Params.ordersectionsbydesc | default $page.Site.Params.ordersectionsbydesc | default false }}
 
 {{- $pages := slice }}
 
@@ -28,6 +30,10 @@
 	{{- $filepath := "[virtual file]" }}{{ with and $page $page.File $page.File.Filename }}{{ $filepath = . }}{{ end }}
 	{{- warnf "%q: Unknown pages sort order %q" $filepath $by }}
 	{{- $pages = $page.Pages }}
+{{- end }}
+
+{{- if $desc }}
+	{{- $pages = $pages | collections.Reverse }}
 {{- end }}
 
 {{- $filtered_pages := slice }}
