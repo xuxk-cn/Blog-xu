@@ -13,8 +13,8 @@ chapter = true
 
 > 🗓️ **DATE:** 2025/11/26  
 > 🎀 **MOOD:** calm & ready to create  
-> 🍵**blog：**http://kuanblog.dpdns.org
-   🐙 https://github.com/xuxk-cn/AstraView-Release
+> 🍵**blog：** http://kuanblog.dpdns.org
+   🐙**gitbuh:  https://github.com/xuxk-cn/AstraView-Release
 
 ---
 # 🌌 AstraView（星辰视界）
