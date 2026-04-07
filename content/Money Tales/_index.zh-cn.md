@@ -13,7 +13,8 @@ chapter = true
 
 > 🗓️ **DATE:** 2025/11/26  
 > 🎀 **MOOD:** calm & ready to create  
-> 🍵 **NOTE:** 这是我的第一篇 Blog，打算长期记录生活中的所有灵感与积累。
+> 🍵**blog：**http://kuanblog.dpdns.org/
+> 
 
 ---
 
