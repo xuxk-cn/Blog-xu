@@ -9,7 +9,7 @@ weight = 6
 chapter = true
 +++
 
-## 🥬 欢迎来到芹菜的blog！
+## 🥬 欢迎来到星辰视界-AstraView的blog！
 
 > 🗓️ **DATE:** 2025/11/26  
 > 🎀 **MOOD:** calm & ready to create  
