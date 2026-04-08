@@ -1,13 +1,13 @@
 +++
 title = "星辰视界-AstraView"
-linkTitle = "5-story-geek-discovery"
+linkTitle = "story-geek-discovery"
 weight =103
 date = 2026-04-07
 +++
 ## 一个爱折腾的极客，和一款看起来“不怎么花哨”的小工具
 
 
-阿![](assets/5-story-geek-discovery/file-20260407172004599.png)北是那种典型的极客。
+阿![](assets/story-geek-discovery/file-20260408095750637.png)北是那种典型的极客。
 
 他会为了给终端换一个主题，花一整晚研究颜色搭配；  
 会为了给窗口管理器加一个快捷键，在配置文件里埋头写半天；  

@@ -1,12 +1,12 @@
 +++
 title = "星辰视界-AstraView"
-linkTitle = "7-story-late-night-html"
+linkTitle = "story-late-night-html"
 weight =105
 date = 2026-04-07
 +++
 ## 那天凌晨两点，我第一次意识到自己需要一款像 AstraView（星辰视界）这样的工具
 
-![](assets/7-story-late-night-html/file-20260407172023715.png)
+![](assets/story-late-night-html/file-20260408095723419.png)
 凌晨两点，办公室只剩下我一个人。
 
 显示器上开着四个窗口：浏览器、VS Code、一个 PDF 阅读器，还有资源管理器。  

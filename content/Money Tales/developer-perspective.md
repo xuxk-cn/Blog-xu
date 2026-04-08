@@ -1,13 +1,13 @@
 +++
 title = "星辰视界-AstraView"
-linkTitle = "6-developer-perspective"
+linkTitle = "developer-perspective"
 weight =104
 date = 2026-04-07
 +++
 ## 从开发者 & 极客视角：用 AstraView（星辰视界）把文件系统变成“信息仪表盘”
 
 
-作为![](assets/6-developer-perspective/file-20260407172016408.png)开发者，你可能拥有一个“混乱而强大”的磁盘：
+作为![](assets/developer-perspective/file-20260408095755865.png)开发者，你可能拥有一个“混乱而强大”的磁盘：
 
 - 代码仓库、日志、Markdown 笔记、HTML demo、各种 JSON / XML 配置；
 - 文档是 PDF，设计稿是 PSD / SVG，需求和思路写在 Markdown 里；

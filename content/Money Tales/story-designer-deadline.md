@@ -1,6 +1,6 @@
 +++
 title = "星辰视界-AstraView"
-linkTitle = "3-story-designer-deadline"
+linkTitle = "story-designer-deadline"
 weight =101
 date = 2026-04-07
 +++

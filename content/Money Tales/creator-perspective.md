@@ -1,6 +1,6 @@
 +++
 title = "星辰视界-AstraView"
-linkTitle = "2-creator-perspective"
+linkTitle = "creator-perspective"
 weight =100
 date = 2026-04-07
 +++

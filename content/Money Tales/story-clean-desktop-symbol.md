@@ -1,6 +1,6 @@
 +++
 title = "星辰视界-AstraView"
-linkTitle = "1-story-clean-desktop-symbol"
+linkTitle = "story-clean-desktop-symbol"
 weight =99
 date = 2026-04-07
 +++
