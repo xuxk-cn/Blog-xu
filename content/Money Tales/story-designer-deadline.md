@@ -7,7 +7,7 @@ date = 2026-04-07
 ## 交稿前一小时，她终于不再跟 Photoshop 干仗了
 
 
-小周![](assets/3-story-designer-deadline/file-20260407171944928.png)是工作五年的视觉设计师。
+小周是工作五年的视觉设计师。
 
 她的桌面有一个永远塞不满的文件夹，名字叫“临时”。  
 每次客户要改图，她就往里面扔一堆新版本：`final.psd`、`final_new.psd`、`final_最后.psd`……  

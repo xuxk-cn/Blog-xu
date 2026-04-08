@@ -5,7 +5,7 @@ weight =99
 date = 2026-04-07
 +++
 ## 当我清理桌面图标的时候，发现 AstraView（星辰视界）已经变成了一种“态度”
-![](assets/1-story-clean-desktop-symbol/file-20260407171924656.png)
+
 
 有一阵子，我的桌面几乎看不见壁纸。
 
