@@ -1,6 +1,6 @@
 +++
-title = "星辰视界-AstraView"
-linkTitle = "story-late-night-html"
+title = "TransPilot 智译领航"
+linkTitle = "TransPilot 智译领航 —本地 AI 截屏翻译与表格识别神器"
 weight =28
 date = 2026-06-30
 +++
