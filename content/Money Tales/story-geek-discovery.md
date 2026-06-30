@@ -1,7 +1,7 @@
 +++
 title = "星辰视界-AstraView"
 linkTitle = "story-geek-discovery"
-weight =103
+weight =26
 date = 2026-04-07
 +++
 ## 一个爱折腾的极客，和一款看起来“不怎么花哨”的小工具

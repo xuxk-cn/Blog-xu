@@ -1,7 +1,7 @@
 +++
 title = "星辰视界-AstraView"
 linkTitle = "developer-perspective"
-weight =104
+weight =2
 date = 2026-04-07
 +++
 ## 从开发者 & 极客视角：用 AstraView（星辰视界）把文件系统变成“信息仪表盘”

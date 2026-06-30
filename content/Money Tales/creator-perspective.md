@@ -1,7 +1,7 @@
 +++
 title = "星辰视界-AstraView"
 linkTitle = "creator-perspective"
-weight =100
+weight =4
 date = 2026-04-07
 +++
 ## 面向内容创作者 / 自媒体：用 AstraView（星辰视界）把素材库变成“内容灵感池”

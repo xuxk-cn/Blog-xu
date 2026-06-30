@@ -1,7 +1,7 @@
 +++
 title = "星辰视界-AstraView"
 linkTitle = "story-clean-desktop-symbol"
-weight =99
+weight =24
 date = 2026-04-07
 +++
 ## 当我清理桌面图标的时候，发现 AstraView（星辰视界）已经变成了一种“态度”

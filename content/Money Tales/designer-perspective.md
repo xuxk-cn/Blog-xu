@@ -1,7 +1,7 @@
 +++
 title = "星辰视界-AstraView"
 linkTitle = "designer-perspective"
-weight =102
+weight =3
 date = 2026-04-07
 +++
 ## 从设计师视角：告别频繁打开 PS/AI 的那一刻

@@ -1,7 +1,7 @@
 +++
 title = "星辰视界-AstraView"
 linkTitle = "story-late-night-html"
-weight =105
+weight =27
 date = 2026-04-07
 +++
 ## 那天凌晨两点，我第一次意识到自己需要一款像 AstraView（星辰视界）这样的工具
